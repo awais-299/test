@@ -1,3 +1,3 @@
 # test
 
-![Screenshot](download.jpg)
+![alt text](blank.pdf)
