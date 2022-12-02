@@ -1,3 +1,4 @@
 # test
 
-![alt text](blank.pdf)
+![My Image](blank.pdf)
+
