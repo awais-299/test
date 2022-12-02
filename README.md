@@ -1,3 +1,3 @@
 # test
 
-![Screenshot](screenshot.png)
+![Screenshot](download.jpg)
